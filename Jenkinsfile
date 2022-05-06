@@ -8,6 +8,9 @@ pipeline {
             { 
                 echo 'Building the application'
                 echo 'Building the application'
+                echo 'Building the application'
+                echo 'Building the application'
+                echo 'Building the application'
             } 
         }
         stage('test')
